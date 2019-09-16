@@ -3,6 +3,7 @@
   <approvedScriptHashes/>
   <approvedSignatures>
     <string>new java.util.ArrayList</string>
+    <string>field java.util.ArrayList size</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods execute java.util.List</string>
     <string>staticMethod org.codehaus.groovy.runtime.ProcessGroovyMethods getText java.lang.Process</string>
     <string>staticMethod org.codehaus.groovy.runtime.DefaultGroovyMethods drop java.lang.CharSequence int</string>
