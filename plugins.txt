@@ -1,0 +1,2 @@
+structs:1.20
+dependency-track:2.1.0
